@@ -31,7 +31,9 @@
       "variable": "$_INPUT",
       "animation": [
         { "image_path": "assets/launch_payload_dialog/animation/anim_frame_1.png","x": 335, "y": 59 },
-        { "image_path": "assets/launch_payload_dialog/animation/anim_frame_2.png","x": 335, "y": 59 }
+        { "image_path": "assets/launch_payload_dialog/animation/anim_frame_2.png","x": 335, "y": 59 },
+        { "image_path": "assets/launch_payload_dialog/animation/anim_frame_3.png","x": 335, "y": 59 },
+        { "image_path": "assets/launch_payload_dialog/animation/anim_frame_4.png","x": 335, "y": 59 }
       ]
     },
     {
