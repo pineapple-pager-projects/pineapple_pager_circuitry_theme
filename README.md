@@ -2,6 +2,11 @@
 
 ### Author: brAinphreAk
 
+<p>
+  <img src="preview_dashboard.png" width="48%" alt="Dashboard"/>
+  <img src="preview_startup.png" width="48%" alt="Startup"/>
+</p>
+
 A circuit board themed skin for the Hak5 WiFi Pineapple Pager. Every screen is designed to look like a real PCB, with green solder mask traces, component silkscreens, and LCD-style readouts.
 
 ![Circuitry Theme Screenshots](screenshot.png)
